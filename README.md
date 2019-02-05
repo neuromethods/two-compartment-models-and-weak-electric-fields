@@ -11,7 +11,7 @@ The code contains examples for the estimation of
 - neuronal adaptation parameters (Results section 5)
 -->
 
-__How to use__ 
+__How to use:__ 
 run the script `run_me.py` with Python 2.x
 
 <!---
