@@ -1,6 +1,6 @@
 # two-compartment-models-and-weak-electric-fields
 
-Implementations of models and methods described in: __Ladenbauer, Obermayer,__ ___Weak electric fields promote resonance in neuronal spiking activity: analytical results from two-compartment cell and network models___ (submitted 2018, [bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/30/379560)) 
+Implementations of models and methods described in: __Ladenbauer, Obermayer,__ ___Weak electric fields promote resonance in neuronal spiking activity: analytical results from two-compartment cell and network models___ [PLOS Computational Biology 2019](https://doi.org/10.1371/journal.pcbi.1006974) 
 
 <!---
 The code contains examples for the estimation of 
@@ -20,7 +20,7 @@ numpy, scipy, numba, multiprocessing, math, os, collections, tables, time, matpl
 
 These libraries can be conveniently obtained, for example, via a recent [Anaconda distribution](https://www.anaconda.com/download/) (Python 2.x)
 -->
-
+<!---
 _Remark_: the code is a condensed version of the original implementations used for the paper, documentation and additional features will be included soon
-
+-->
 For questions please contact Josef Ladenbauer
